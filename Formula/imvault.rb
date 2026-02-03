@@ -1,4 +1,6 @@
 class Imvault < Formula
+  include Language::Python::Virtualenv
+
   desc "Browse, search, and archive iMessage conversations from macOS"
   homepage "https://github.com/reznto/imvault"
   url "https://github.com/reznto/imvault/archive/refs/tags/v0.1.0.tar.gz"
