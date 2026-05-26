@@ -3,8 +3,8 @@ class Imvault < Formula
 
   desc "Browse, search, and archive iMessage conversations from macOS"
   homepage "https://github.com/reznto/imvault"
-  url "https://github.com/reznto/imvault/archive/refs/tags/v0.3.0.tar.gz"
-  sha256 "ec38e13853c6ea9eb1cf70d4216847a39a5a86af52b037c9d177fd0cb95aa43f"
+  url "https://github.com/reznto/imvault/archive/refs/tags/v0.4.0.tar.gz"
+  sha256 "cfe02a2e64e88657ec651cd14125b7755a9b2295dd3e3b86edffc4e743199827"
   license "MIT"
 
   depends_on "rust" => :build
